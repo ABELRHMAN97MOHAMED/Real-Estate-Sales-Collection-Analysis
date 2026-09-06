@@ -102,3 +102,5 @@ The demo showcases:
 - Installment collection analysis
 - Cash and bank financing analysis
 - Bank-wise performance analysis
+
+- [Watch the Power BI Dashboard Demo](./2026-09-05-08-35-45_besf2j6Q.mp4)
