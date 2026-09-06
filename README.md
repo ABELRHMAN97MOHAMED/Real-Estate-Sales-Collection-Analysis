@@ -109,6 +109,18 @@ The demo showcases:
 - Tracked installment performance across 7 installment stages.
 - Monitored issued, collected, and outstanding invoices.
 - Achieved visibility into an overall collection rate of approximately 95%.
+
+## Repository Contents
+
+- `KATTAMYA.pbix` - Power BI dashboard file
+- Dashboard demo video
+- `README.md` - Project documentation
+
+## Author
+
+**Abdelrhman Mohamed**
+
+Data Analyst | Power BI | SQL | Excel | DAX
 - Analyzed more than 2.4B in invoiced amounts.
 - Compared collection performance between Cash and Bank Financing.
 - Built bank-wise analysis to evaluate financing and collection performance by bank.
