@@ -102,5 +102,17 @@ The demo showcases:
 - Installment collection analysis
 - Cash and bank financing analysis
 - Bank-wise performance analysis
+-  
+ ## Project Highlights
+
+- Analyzed 640 sold/customer records across the real estate project.
+- Tracked installment performance across 7 installment stages.
+- Monitored issued, collected, and outstanding invoices.
+- Achieved visibility into an overall collection rate of approximately 95%.
+- Analyzed more than 2.4B in invoiced amounts.
+- Compared collection performance between Cash and Bank Financing.
+- Built bank-wise analysis to evaluate financing and collection performance by bank.
+- Implemented dynamic date segmentation to analyze current, old, and new records.
+- Created an interactive multi-page dashboard for management-level performance monitoring.
 
 - [Watch the Power BI Dashboard Demo](./2026-09-05-08-35-45_besf2j6Q.mp4)
